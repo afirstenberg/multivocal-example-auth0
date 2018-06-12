@@ -1,0 +1,62 @@
+[
+  {
+    "id": "4f90ae96-096b-43c2-9f69-744633d44178",
+    "data": [
+      {
+        "text": "email address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527732898
+  },
+  {
+    "id": "05c61bc2-f9ed-43f9-8cd8-16cd13e58eb1",
+    "data": [
+      {
+        "text": "email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527732898
+  },
+  {
+    "id": "5b8730b3-10c6-4b33-bdbe-6e76c9cdfb3f",
+    "data": [
+      {
+        "text": "addresss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527732898
+  },
+  {
+    "id": "0df7f0b1-52ac-4cb5-b7ab-0de867778f4d",
+    "data": [
+      {
+        "text": "what is my email address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527732898
+  },
+  {
+    "id": "d26f4a57-1712-4b06-8c0b-e324f4bbd849",
+    "data": [
+      {
+        "text": "what is my email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527732898
+  }
+]

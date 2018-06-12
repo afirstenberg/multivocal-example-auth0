@@ -1,0 +1,29 @@
+{
+  "id": "32f9cca1-4d18-43a4-93bc-37695b904f44",
+  "name": "user.name",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "user.name",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527732857,
+  "fallbackIntent": false,
+  "events": []
+}
